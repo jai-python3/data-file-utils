@@ -1,6 +1,6 @@
 # Data File Utils
 
-Collection of  Python scripts/utils for facilitating file manipulation tasks.
+Collection of Python scripts/utils for facilitating file manipulation tasks.
 
 - [Data File Utils](#data-file-utils)
   - [Improvements](#improvements)
